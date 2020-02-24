@@ -54,16 +54,21 @@ ol.carousel-indicators li{
     padding: 2px;
     border-radius: 20px;
 }
+.category_design01 img{
+    padding: 40px;
+    box-shadow: 5px 5px 15px lightgrey;
+    cursor: pointer;
+}
 .category_design{
-    width: 125px;
-    height: 125px;
     border: none;
     box-shadow: 5px 5px 15px lightgrey;
     cursor: pointer;
+    padding: 40px;
 }
 .row{
     margin-top: 25px;
 }
 footer{
     background: #eeeeee;
+    margin-top: 35px;
 }
