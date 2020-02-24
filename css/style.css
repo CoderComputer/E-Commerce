@@ -11,7 +11,9 @@
 }
 .buy-now-btn:hover{
     box-shadow: 5px 5px 15px lightgrey;
-    background: rgb(34, 34, 34);
+    background: rgb(73, 73, 73);
+    transform: scale(0.9);
+    
 }
 .carousel-design{
     margin-top: 50px;
@@ -39,6 +41,11 @@ ol.carousel-indicators li{
     border: none;
     box-shadow: 5px 5px 15px lightgray;
 }
+.card:hover{
+    box-shadow: 7px 7px 10px lightsteelblue;
+    cursor: pointer;
+
+}
 .card-footer{
     border: none;
     background: white;
@@ -59,11 +66,17 @@ ol.carousel-indicators li{
     box-shadow: 5px 5px 15px lightgrey;
     cursor: pointer;
 }
+.category_design01 img:hover{
+    box-shadow: 5px 5px 15px lightsteelblue;
+}
 .category_design{
     border: none;
     box-shadow: 5px 5px 15px lightgrey;
     cursor: pointer;
     padding: 40px;
+}
+.category_design:hover{
+    box-shadow: 5px 5px 15px lightsteelblue;
 }
 .row{
     margin-top: 25px;
