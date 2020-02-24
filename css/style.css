@@ -59,6 +59,7 @@ ol.carousel-indicators li{
     height: 125px;
     border: none;
     box-shadow: 5px 5px 15px lightgrey;
+    cursor: pointer;
 }
 .row{
     margin-top: 25px;
